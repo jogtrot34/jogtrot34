@@ -1,25 +1,89 @@
-<h1 align="center">Hi 👋, I'm Joseph Wella</h1>
-<h3 align="center">A passionate fullstack developer from Malawi</h3>
-
-- 🔭 I’m currently working on [Glance Online](glanceonlinemw.com)
-
-- 🌱 I’m currently learning **React Native**
-
-- 📝 I regularly write articles on [Backend Development](Backend Development)
-
-- 💬 Ask me about **Web development**
-
-- 📫 How to reach me **josephwella35@gmail.com**
-
-- 📄 Know about my experiences [glanceonlinemw.com/online_cv/josephwella](glanceonlinemw.com/online_cv/josephwella)
-
-- ⚡ Fun fact **I know a little bit of Spanish**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/joseph wella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joseph wella" height="30" width="40" /></a>
-<a href="https://instagram.com/jogtrot34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jogtrot34" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/58111736?v=4" width="120" style="border-radius: 50%;" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Joseph Wella</h1>
+<h3 align="center">💻 Passionate Fullstack Developer | 🧠 Self-Taught | 🌍 From Malawi 🇲🇼</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=35&fontAlignY=40&desc=Scroll%20down%20to%20know%20more%20about%20me!&descAlignY=65&descAlign=50" />
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🔭 I’m currently working on: [**Glance Online**](https://glanceonlinemw.com)
+- 🌱 I’m learning **React Native** to build cross-platform mobile apps
+- 📝 I write articles about **backend development** *(coming soon!)*
+- 📫 Reach me: **josephwella35@gmail.com**
+- 📄 View my CV: [glanceonlinemw.com/online_cv/josephwella](https://glanceonlinemw.com/online_cv/josephwella)
+- ⚡ Fun fact: I speak **a little Spanish** 🇪🇸
+
+---
+
+### 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jogtrot34&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jogtrot34&theme=radical" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jogtrot34&theme=radical" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+- 📨 [**Text Wave**](https://github.com/jogtrot34/textwave) – Python desktop SMS app
+- 📚 [**UniBooks**](https://github.com/jogtrot34/unibooks) – Django-based university book system
+- 🔍 [**Limitless**](https://github.com/jogtrot34/limitless-calculator) – Smart calculator for calculus students
+
+---
+
+### 🌐 Let's Connect
+
+<p align="left">
+  <a href="https://fb.com/josephwella" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" height="30"/>
+  </a>
+  <a href="https://instagram.com/jogtrot34" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" height="30"/>
+  </a>
+  <a href="mailto:josephwella35@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="30"/>
+  </a>
+</p>
+
+---
+
+### 🧭 Quote I Live By
+
+> *“Programs must be written for people to read, and only incidentally for machines to execute.”* – Harold Abelson
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jogtrot34&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
